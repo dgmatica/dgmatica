@@ -4,7 +4,9 @@
   <img src="assets/banner-dark.svg" width="100%" alt="dgmatica — engineer, systems thinker, full-stack">
 </picture>
 
-I'm an engineer, a systems thinker and an analyst from Ukraine 🇺🇦. I want to know how a thing works, and then I want to build one myself. I hold a Master's degree in Applied Sciences (Navigational Engineering), and these days what I build is mostly software — the whole stack, because the interesting part is how the layers fit together.
+I'm an engineer from Ukraine 🇺🇦, a systems thinker and an analyst by habit. Show me something that works and I want to know why; once I know why, I want to build my own.
+
+I hold a Master's degree in Applied Sciences (Navigational Engineering). From there it was a gradual dive into the world of algorithms, data, flows and transformations, and now software is most of what I build: the whole stack, because the interesting part is usually where the layers meet.
 
 **Stack**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,15 +36,15 @@ I'm an engineer, a systems thinker and an analyst from Ukraine 🇺🇦. I want 
 ![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat-square)
 ![T3 Code](https://img.shields.io/badge/T3%20Code-52525B?style=flat-square)
 
-### More about me
+### Other systems I like
 
-I build ecosystems: living soil, and now a vermicomposter to feed it. I read about astronomy, biology and the history of life — my avatar here is the first image of Sagittarius A\*, the black hole at the centre of the Milky Way.
+I know things more in breadth than in depth, and I'm fine with that. The same patterns keep turning up in very different places, and spotting them is half the fun.
 
-I love games too. At some point I discovered Factorio, and it became my favourite game outright — the one I seem to have been looking for all my life. I enjoy plenty of others as well.
+Some of these systems are alive: I build ecosystems, living soil first and now a vermicomposter to feed it. Some are very large: I read about astronomy, biology and the history of life, and my avatar here is the first image of Sagittarius A\*, the black hole at the centre of the Milky Way. And some are games: I enjoy plenty of them, though Factorio, a game about automating everything, turned out to be the one I had been looking for all along.
 
-AI runs through most of what I do. I have used language models since the GPT-3 era of ChatGPT, up to Claude Fable 5.2 and Opus 5.5, and I experiment with local machine learning systems. I treat it as an engineer would: a field to study, and output to check and test.
+I see AI in a similar light: a new tool of algorithmisation and automation, this time for all of humanity. I have used language models since the GPT-3 era of ChatGPT, up to Claude Fable 5.2 and Opus 5.5, and I experiment with local machine learning systems. For me they work as an amplifier: they help me see how distant fields connect, and build and learn more than I could alone. I study them the way I would any other tool: how they work, and where they fail.
 
-Mostly I like learning something new and then making something with it. Some of that ends up on [Synthropy](https://synthropy.space/en/blog/).
+It is simply a more interesting way to live. The longer version is on [Synthropy](https://synthropy.space).
 
 ---
 
