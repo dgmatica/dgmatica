@@ -66,7 +66,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/label-about-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/label-about-light.svg">
-    <img src="assets/label-about-dark.svg" width="560" alt="A little more about me">
+    <img src="assets/label-about-dark.svg" width="560" alt="More about me">
   </picture>
 </p>
 
@@ -77,7 +77,7 @@ Some of these systems are alive: I build ecosystems, living soil first and now a
 I see AI in a similar light: a new tool of algorithmisation and automation, this time for all of humanity. I have used language models since the GPT-3 era of ChatGPT, up to Claude Fable 5.2 and Opus 5.5, and I experiment with local machine learning systems. For me they work as an amplifier: they help me see how distant fields connect, and build and learn more than I could alone. I study them the way I would any other tool: how they work, and where they fail.
 
 <p align="center">
-  It is simply a more interesting way to live. The longer version is on <a href="https://synthropy.space">Synthropy</a>.
+  The longer version is on <a href="https://synthropy.space">Synthropy</a>.
 </p>
 
 <p align="center">
