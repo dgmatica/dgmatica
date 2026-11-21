@@ -64,13 +64,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/label-systems-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/label-systems-light.svg">
-    <img src="assets/label-systems-dark.svg" width="560" alt="Other systems I like">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/label-about-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/label-about-light.svg">
+    <img src="assets/label-about-dark.svg" width="560" alt="A little more about me">
   </picture>
 </p>
 
-I know things more in breadth than in depth, and I'm fine with that. The same patterns keep turning up in very different places, and noticing them is what I enjoy most.
+I know things more in breadth than in depth, and I'm fine with that. The same patterns keep turning up in very different systems, and noticing them is what I enjoy most.
 
 Some of these systems are alive: I build ecosystems, living soil first and now a vermicomposter to feed it. Some are very large: I read about astronomy, biology and the history of life, and my avatar here is the first image of Sagittarius A\*, the black hole at the centre of the Milky Way. And some are games: I enjoy plenty of them, though Factorio, a game about automating everything, turned out to be the one I had been looking for all along.
 
